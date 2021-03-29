@@ -1,1 +1,1 @@
-rootProject.name = "generic-client"
+rootProject.name = "weather-rock"
